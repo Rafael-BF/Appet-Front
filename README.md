@@ -2,14 +2,7 @@
 
 Conheça o projeto inovador que automatiza a tarefa de alimentar seu pet. Com ele, você pode agendar e controlar a alimentação do seu amigo de estimação através de um aplicativo, de qualquer lugar do mundo. Ofereça ao seu pet uma rotina mais saudável e conveniente, enquanto desfruta de tranquilidade com nosso sistema avançado e acessível.
 
-## Índice
-- [Visão Geral](#visão-geral)
-- [Imagens do Projeto](#imagens-do-projeto)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Autores](#autores)
-- [Licença](#licença)
+## deploy -> https://front-end-appet.vercel.app/
 
 ## Visão Geral
 ### Alimentador Programável PET
